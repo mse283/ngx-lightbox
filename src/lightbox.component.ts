@@ -79,7 +79,7 @@ export class LightboxComponent implements AfterViewInit, OnDestroy, OnInit {
     public _lightboxElem: ElementRef,
     private _lightboxWindowRef: LightboxWindowRef,
     private _sanitizer: DomSanitizer,
-    @Inject(DOCUMENT) private _documentRef: Document
+    @Inject(DOCUMENT) private _documentRef: any
   ) {
     // initialize data
     this.options = this.options || {};
