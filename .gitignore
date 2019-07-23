@@ -1,5 +1,11 @@
 node_modules
 src/*.map
 src/*.js
-dist/
-src/
+/compiled
+*.map
+/img
+*.metadata.json
+*.log
+/dist
+*.d.ts
+*.ngsummary.json

@@ -24,8 +24,87 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93de471d-20c1-45b1-b407-c28a306a65b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-config.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-config.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-config.service.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-config.service.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-event.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-event.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-event.service.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-event.service.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.ngfactory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.ngfactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.ngfactory.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.spec.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox-overlay.component.spec.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.ngfactory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.ngfactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.ngfactory.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.spec.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.spec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.component.spec.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.module.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.module.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.module.ngfactory.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.module.ngfactory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.module.ngfactory.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.service.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.service.metadata.json" beforeDir="false" />
+    </list>
+    <list id="8a8d54ca-2338-4311-a481-991b4841be14" name="Revert &quot;Intialize project, support angular 6&quot;" comment="Revert &quot;Intialize project, support angular 6&quot;&#10;&#10;This reverts commit 03bbaf23">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/demo/app.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/demo/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image1-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image2-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image3-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image4-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/img/image4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma-main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox-config.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lightbox-config.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox-event.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox-overlay.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox-overlay.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lightbox-overlay.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lightbox.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/lightbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lightbox.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/lightbox.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig-demo.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -46,20 +125,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="1012">
+              <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="264">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -69,6 +148,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>: document</find>
+      <find>publish</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -81,6 +161,7 @@
         <option value="$PROJECT_DIR$/src/lightbox.service.ts" />
         <option value="$PROJECT_DIR$/src/lightbox-overlay.component.ts" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -102,7 +183,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-553" />
+    <option name="x" value="203" />
     <option name="y" value="-1417" />
     <option name="width" value="2560" />
     <option name="height" value="1417" />
@@ -112,7 +193,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -124,17 +204,13 @@
             <path>
               <item name="ngx-lightbox" type="b2602c69:ProjectViewProjectNode" />
               <item name="ngx-lightbox" type="462c0819:PsiDirectoryNode" />
-              <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ngx-lightbox" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ngx-lightbox" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,18 +271,19 @@
       <updated>1563839407790</updated>
       <workItem from="1563839409069" duration="119000" />
       <workItem from="1563841151782" duration="154000" />
-      <workItem from="1563841593292" duration="101000" />
+      <workItem from="1563841593292" duration="918000" />
+      <workItem from="1563849905001" duration="365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="374000" />
+    <option name="totallyTimeSpent" value="1556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="208" y="-1417" width="2560" height="1417" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22041303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22200158" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -219,7 +296,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.039170507" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" />
       <window_info anchor="bottom" id="TeamCity" order="11" />
@@ -269,6 +346,16 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/lightbox-overlay.component.ts">
       <provider selected="true" editor-type-id="text-editor">
@@ -277,17 +364,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        <state relative-caret-position="264">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="1012">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
         </state>
       </provider>
     </entry>
